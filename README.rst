@@ -1,40 +1,46 @@
-AlertOps Expert Guidance
+What Is Proactive Major Incident Management?
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+ Proactive incident management is vital, particularly for an enterprise that wants to limit downtime, outages and other critical problems. Yet few enterprises prioritize proactive major incident management, which is reflected in a recent survey of more than 400 IT professionals conducted by Dimensional Research.
 
-Not One Size Fits All
+Key findings from Dimensional’s survey included:
+
+    Among companies with at least 5,000 employees, 95 percent of respondents stated they experience major incidents at least several times a year.
+    Among all companies, 77 percent noted it takes 30 minutes or longer to resolve a major incident.
+    49 percent indicated they manually communicate with their incident resolvers during a major incident.
+    48 percent said their business does not have a major incident management team in place.
+
+To address critical incidents, enterprises must develop best practices for major incident management. If an enterprise major incident management team can maintain proactive communications from initial response to final resolution, it can minimize an incident’s impact on an enterprise’s operations and stakeholders.
+
+Proactive Major Incident Management Communications: Here’s What You Need to Know
+====
+A wait-and-see approach to major incident management is insufficient. Because if an enterprise suffers a network or system problem that goes unaddressed, an enterprise is unlikely to identify and resolve the issue before it escalates.
+
+There is no need to let a small incident escalate. Instead, an enterprise can deploy an alert tracking system that promotes proactive major incident management communications.
+
+An alert monitoring system offers many benefits for enterprise major incident management teams, and these benefits include:
+
+    You can keep key stakeholders informed at all stages of an incident. Major incident management team members require real-time collaboration. An alert tracking system that empowers real-time collaboration allows incident management team members and key stakeholders to stay in touch with one another throughout an incident.
+    You can maintain communication across multiple platforms. With the right alert tracking system in place, major incident management team members can communicate via Slack, HipChat and other real-time chat platforms. As such, major incident management team members can work together to quickly resolve an incident.
+    You can maintain stakeholder relationships. Poor communication may cause stakeholder relationships to deteriorate. Fortunately, major incident management team members can use an alert tracking system to keep stakeholders in the loop as network or system outages or other major incidents are resolved.
+    You can use a custom template to speed up incident response. An alert tracking system that offers custom templates enables a major incident management team to plan ahead for all types of incidents. That way, a major incident management team can act quickly to respond to an incident and accelerate its incident response efforts.
+    You can reduce liability. Breaking a service-level agreement (SLA) is unacceptable for any enterprise, at any time. With an alert monitoring system that offers proactive communications, a major incident management team can track SLA deadlines and receive notifications any time an enterprise risks missing a deadline. Then, this team can take the necessary steps to avoid missing an SLA deadline altogether.
+    You can limit the risk of financial losses. The financial ramifications of a major incident can be significant. Meanwhile, an alert monitoring system that drives proactive communications ensures major incident management team members can enhance their response efforts, thereby reducing the risk of substantial financial losses for an enterprise and its stakeholders.
+    You can automate your communications. Automatic escalations make it simple for a major incident management team to instantly deliver the right notifications, to the right team members, without delay. They are easy to access via a state-of-the-art alert monitoring system and ensure major incident management team members can avoid missed communications that otherwise slow down or stop incident response.
+
+When it comes to major incidents, it helps to plan ahead as much as possible. By integrating an alert tracking system that promotes proactive communications into their day-to-day operations, major incident management team members can prepare for outages, downtime and other issues that could cause long-term problems for an enterprise and its stakeholders.
+
+The Bottom Line on Major Incident Management
 =====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+A major incident can put a significant dent in an enterprise’s bottom line and cause long-term brand reputation damage. Thus, it is important for an enterprise to do everything possible to prevent major incidents.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+There is no telling when a major incident may occur, and even a minor issue could linger for an extended period of time. By providing a major incident management team with a best-in-class alert tracking system, however, an enterprise could reap the benefits of this investment for years to come.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
-
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+An alert tracking system that helps a major incident management team proactively identify and address downtime, outages and related problems ensures an enterprise can limit risk. Best of all, a major incident management team can use the system to stop incidents before they happen and help an enterprise provide its stakeholders with the services and support they deserve at all times.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/proactive-incident-management/
 
 Read more:
 ====
